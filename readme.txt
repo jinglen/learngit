@@ -3,3 +3,5 @@ git is free software distributed under the GPLS.
 Git has a mutable index called stage.
 git tracks changes on files.
 Creating amew branch is quick.
+test cat.
+create a new branch is quich AND simple.
